@@ -110,6 +110,12 @@ body {
   color: var(--blue);
 }
 
+.header-icon {
+  margin-right: 10px;
+  fill: currentColor;
+}
+
+
 /* vision */
 .conteiner-vision-section {
   display: flex;
